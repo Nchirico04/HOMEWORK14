@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(221, 242, 209);
+    color: brown;
+
+}
+
+.app-title {
+    margin-left: 20px;
+    background-color: #ECFADC;
+    color: black;
+    display: inline-block;
+    border-radius: 0.5rem;
+    box-shadow: 10px 7px #AEDCAE;
+}
+
+.link {
+    margin: 0 40px;
+    color: #9FD4A3;
+}
+
+.card {
+    background-color: #CDEBC5;
+    border: 4px solid #BEE3BA;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.card-header {
+    color: white
+}
+
+.card-header div {
+    color: gold;
+}
+
+.card-body{
+    background-color: #ECFADC;
+    padding: 10px;
+}
+
+.edit-link{
+    border: 3px solid #CDEBC5;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.new-post-form {
+    background-color: #BEE3BA;
+    border: 3px solid#9FD4A3;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: blue;
+}
+
+.comment-form {
+    background-color: #AEDCAE;
+    border: 3px solid #9FD4A3;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+}
